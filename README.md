@@ -5,9 +5,9 @@
 
 ---
 
-## 📋 கண்ணோட்டம் (Overview)
+## 📋 Overview
 
-இந்த **Hospital SOC Control Effectiveness & Business Risk Dashboard** என்பது மருத்துவமனை பாதுகாப்பு செயல்பாட்டு மையம் (Security Operations Center - SOC) மற்றும் மருத்துவப் பொறியியல் துறைகளுக்காக உருவாக்கப்பட்ட விரிவான மேலாண்மை தளமாகும். இது தொழில்நுட்ப ரீதியான சைபர் பாதுகாப்பு நிகழ்வுகள், IoMT (Internet of Medical Things) மருத்துவ உபகரணங்களின் அச்சுறுத்தல்கள் மற்றும் கட்டுப்பாட்டு அளவீடுகளை (Control Metrics) வணிக மற்றும் நோயாளி பாதுகாப்பு அபாயக் குறைப்பாக (Clinical Business Risk Reduction) கணக்கிட்டு வழங்குகிறது.
+The **Hospital SOC Control Effectiveness & Business Risk Dashboard** is an enterprise-grade clinical cyber-risk intelligence platform designed for Hospital Security Operations Centers (SOC), Clinical Engineering, and C-suite leadership. It bridges the critical divide between raw technical cybersecurity telemetry (IoMT device vulnerabilities, firewall logs, endpoint events, and safeguard configurations) and boardroom-level clinical risk reduction, HIPAA/NIST compliance posture, and patient safety assurance.
 
 ---
 
