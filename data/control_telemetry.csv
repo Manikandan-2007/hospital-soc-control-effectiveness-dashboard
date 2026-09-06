@@ -1,0 +1,15 @@
+event_id,control_id,asset_id,event_timestamp,event_type,control_status,source,processing_timestamp
+EVT-9001,CTL-SEG-001,AST-ICU-001,2026-09-05T12:00:00Z,monitoring_heartbeat,control_success,Cisco Catalyst 9300 NetFlow,2026-09-05T12:00:03Z
+EVT-9002,CTL-SEG-001,AST-ICU-001,2026-09-05T13:00:00Z,alert_generated,control_success,Cisco Catalyst 9300 NetFlow,2026-09-05T13:00:05Z
+EVT-9002,CTL-SEG-001,AST-ICU-001,2026-09-05T13:00:00Z,alert_generated,control_success,Cisco Catalyst 9300 NetFlow (Duplicate Relay),2026-09-05T13:02:10Z
+EVT-9003,CTL-PTC-001,AST-CTS-001,2026-09-03T04:10:00Z,control_failure,control_failure,GE Apex Local Syslog Buffer,2026-09-04T16:40:00Z
+EVT-9004,CTL-EDR-001,AST-EHR-001,2026-09-05T18:30:00Z,control_success,control_success,CrowdStrike Falcon Event Stream,2026-09-05T18:30:02Z
+EVT-9005,CTL-EDR-001,AST-EHR-001,2026-09-05T16:15:00Z,alert_generated,control_success,CrowdStrike Falcon Sensor Offline Queue,2026-09-05T18:31:00Z
+EVT-9006,CTL-MFA-001,AST-EHR-001,2026-09-05T20:10:00Z,control_success,control_success,Azure AD / Entra ID Sign-in Audit,2026-09-05T20:10:04Z
+EVT-9007,CTL-VSC-001,AST-MRI-001,2026-09-02T11:00:00Z,vulnerability_detected,control_success,Tenable.sc IoMT Engine,2026-09-02T11:05:00Z
+EVT-9008,CTL-PTC-002,AST-LAB-001,2026-09-05T02:15:00Z,control_failure,control_failure,WSUS Automated Update Agent,2026-09-05T02:15:20Z
+EVT-9009,CTL-IDS-001,AST-RAD-001,2026-09-05T21:40:00Z,monitoring_heartbeat,control_success,Suricata IDS Sensor Rack-09,2026-09-05T21:40:01Z
+EVT-9010,CTL-SEG-002,AST-INF-001,2026-09-05T22:00:00Z,control_success,control_success,Aruba ClearPass Policy Manager,2026-09-05T22:00:05Z
+EVT-9011,CTL-BAK-001,AST-RAD-001,2026-09-03T02:00:00Z,control_success,control_success,Rubrik Immutable Vault Verification,2026-09-03T02:15:00Z
+EVT-9012,CTL-MON-001,AST-ICU-002,2026-09-05T23:50:00Z,monitoring_heartbeat,control_success,Splunk Clinical Heavy Forwarder,2026-09-05T23:50:02Z
+EVT-9013,CTL-PTC-002,AST-LAB-001,2026-09-05T03:30:00Z,control_failure,control_failure,WSUS Automated Update Agent,2026-09-05T03:30:15Z

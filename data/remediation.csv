@@ -1,0 +1,8 @@
+remediation_id,vulnerability_id,asset_id,action,status,assigned_team,started_date,completed_date,verification_status
+REM-2026-001,VUL-2026-0891,AST-ICU-001,Applied Mindray OEM emergency kernel patch and hardened TLS cipher suite,Completed,Clinical Engineering & SOC Tier 3,2026-08-04,2026-08-08,Verified Effective
+REM-2026-002,VUL-2026-1104,AST-INF-001,Disabled unencrypted telnet and upgraded Baxter Gateway firmware to v4.2.1,Completed,Biomedical Engineering,2026-08-10,2026-08-14,Verified Effective
+REM-2026-003,VUL-2026-2241,AST-CTS-001,Awaiting GE OEM technician site visit for FDA-certified scanner update,In Progress,Medical Imaging Tech Ops,2026-08-28,,Pending
+REM-2026-004,VUL-2026-3390,AST-LAB-001,Cobas analyzer Windows 7 embedded OS patch failed compatibility testing,Blocked,Lab Informatics & Vendor Support,2026-08-20,,Failed
+REM-2026-005,VUL-2026-4402,AST-EHR-001,Patched OpenSSL vulnerability in Web Blob proxy nodes,Completed,Core IT Infrastructure,2026-08-20,2026-08-29,Verified Effective
+REM-2026-006,VUL-2026-8845,AST-PHR-001,Reconfigured Pyxis dispensing server Active Directory sync policy,Completed,Pharmacy IT,2026-08-05,2026-08-12,Verified Effective
+REM-2026-007,VUL-2026-9956,AST-ADM-001,Implemented Web Application Firewall rule filtering malformed HTTP parameters,Completed,Cyber Operations,2026-08-15,2026-08-25,Verified Effective

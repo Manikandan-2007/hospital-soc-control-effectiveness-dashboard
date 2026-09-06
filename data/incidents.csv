@@ -1,0 +1,8 @@
+incident_id,asset_id,incident_type,severity,detected_time,resolved_time,status,control_id,impact_level
+INC-2026-0101,AST-ICU-001,Network intrusion,High,2026-08-04T03:14:00Z,2026-08-04T05:22:00Z,Resolved,CTL-SEG-001,Contained by VLAN microsegmentation; zero patient telemetry interruption
+INC-2026-0102,AST-INF-001,Device anomaly,Critical,2026-08-09T14:45:00Z,2026-08-09T16:10:00Z,Resolved,CTL-SEG-002,Unauthenticated multicast storm quarantined by segment switch; pump delivery safe
+INC-2026-0103,AST-EHR-001,Suspicious login,Medium,2026-08-22T21:05:00Z,2026-08-22T21:18:00Z,Resolved,CTL-MFA-001,Off-hours credential stuffing blocked by MFA challenge push rejection
+INC-2026-0104,AST-CTS-001,Vulnerability exploitation,Critical,2026-09-04T08:30:00Z,,Investigating,CTL-PTC-001,Potential remote shell probing on unpatched legacy CT interface; workstation offline
+INC-2026-0105,AST-EHR-001,Malware detection,High,2026-09-02T11:15:00Z,2026-09-02T12:05:00Z,Resolved,CTL-EDR-001,Ransomware loader quarantined in temp directory before encryption payload triggered
+INC-2026-0106,AST-PHR-001,Unauthorized access,Medium,2026-09-03T19:20:00Z,2026-09-03T20:05:00Z,Resolved,CTL-ACC-001,Nurse account privilege escalation attempt denied by AD security group filter
+INC-2026-0107,AST-LAB-001,Device anomaly,High,2026-09-05T02:10:00Z,,Active,CTL-PTC-002,Excessive outbound SMB connection requests from Cobas analyzer interface PC

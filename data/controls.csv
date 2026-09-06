@@ -1,0 +1,13 @@
+control_id,control_name,control_type,asset_id,implementation_status,implementation_date,effectiveness_score,last_verified
+CTL-SEG-001,Medical Device VLAN Network Segmentation,Network Segmentation,AST-ICU-001,Implemented,2026-08-10,92.5,2026-09-05
+CTL-SEG-002,Infusion Pump Isolation Microsegmentation,Network Segmentation,AST-INF-001,Implemented,2026-08-15,88.0,2026-09-04
+CTL-MFA-001,Clinical Portal FIDO2 Multi-Factor Authentication,Multi-Factor Authentication,AST-EHR-001,Implemented,2026-08-01,96.0,2026-09-06
+CTL-EDR-001,CrowdStrike Falcon Medical Endpoint Monitoring,Endpoint Monitoring,AST-EHR-001,Implemented,2026-07-20,94.0,2026-09-05
+CTL-VSC-001,Tenable.sc Passive IoMT Vulnerability Scanning,Vulnerability Scanning,AST-MRI-001,Implemented,2026-08-25,84.0,2026-09-02
+CTL-ACC-001,Role-Based Least Privilege Access Control (RBAC),Access Control,AST-PHR-001,Implemented,2026-08-05,91.0,2026-09-05
+CTL-PTC-001,Vendor-Validated Medical Firmware Patch Management,Patch Management,AST-CTS-001,Partially Implemented,2026-08-28,62.0,2026-09-01
+CTL-IDS-001,Suricata DICOM/HL7 Deep Packet Intrusion Detection,Intrusion Detection,AST-RAD-001,Implemented,2026-08-12,89.5,2026-09-05
+CTL-BAK-001,Immutable Air-Gapped PACS Backup and Recovery,Backup and Recovery,AST-RAD-001,Implemented,2026-07-15,95.0,2026-09-03
+CTL-MON-001,24/7 Clinical SOC SIEM Log Telemetry Monitoring,Security Monitoring,AST-ICU-002,Implemented,2026-08-18,87.0,2026-09-05
+CTL-PTC-002,Legacy Analyzer Embedded Windows Patching,Patch Management,AST-LAB-001,Failed,2026-08-01,38.0,2026-08-20
+CTL-SEG-003,PICU Bedside Pump Wireless Network Isolation,Network Segmentation,AST-INF-002,Planned,,0.0,

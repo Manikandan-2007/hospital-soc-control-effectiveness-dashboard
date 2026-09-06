@@ -1,0 +1,11 @@
+vulnerability_id,asset_id,severity,cvss_score,status,detected_date,remediation_due_date,remediation_status,remediation_completed_date
+VUL-2026-0891,AST-ICU-001,Critical,9.8,Remediated,2026-08-02,2026-08-09,Completed,2026-08-08
+VUL-2026-1104,AST-INF-001,High,8.1,Remediated,2026-08-06,2026-08-20,Completed,2026-08-14
+VUL-2026-2241,AST-CTS-001,Critical,9.1,In Progress,2026-08-26,2026-09-02,Overdue,
+VUL-2026-3390,AST-LAB-001,High,7.8,Open,2026-08-18,2026-09-01,Overdue,
+VUL-2026-4402,AST-EHR-001,Medium,5.4,Remediated,2026-08-12,2026-09-12,Completed,2026-08-29
+VUL-2026-5511,AST-MRI-001,Medium,6.2,In Progress,2026-08-28,2026-09-15,Under Evaluation,
+VUL-2026-6623,AST-INF-002,Critical,9.6,Open,2026-09-03,2026-09-10,Pending Vendor Advisory,
+VUL-2026-7734,AST-RAD-001,Low,3.7,Open,2026-08-22,2026-10-22,Scheduled Next Cycle,
+VUL-2026-8845,AST-PHR-001,High,7.5,Remediated,2026-08-01,2026-08-15,Completed,2026-08-12
+VUL-2026-9956,AST-ADM-001,Low,2.9,Mitigated,2026-08-10,2026-09-10,Compensating Control Applied,2026-08-25

@@ -1,0 +1,6 @@
+{
+  "name": "Hospital SOC Control Effectiveness & Business Risk Dashboard",
+  "description": "Hospital Security Operations Center (SOC) dashboard translating technical security findings into clinical business-risk reduction and control effectiveness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
